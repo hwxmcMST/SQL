@@ -1,0 +1,24 @@
+INSERT INTO WPC_EMPLOYEE VALUES(
+1,'Mary','Jacobs','Administration','360-285-8110','Mary.Jacobs@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+2,'Rosalie','Jackson','Administration','360-285-8120','Rosalie.Jackson@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+3,'Richard','Bandalone','Legal','360-285-8210','Richard.Bandalone@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+4,'Tom','Caruthers','Accounting','360-285-8310','Tom.Caruthers@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+5,'Heather','Jones','Accounting','360-285-8320','Heather.Jones@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+6,'Mary','Abernathy','Finance','360-285-8410','Mary.Abernathy@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+7,'George','Smith','Human Resources','360-285-8510','George.Smith@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+8,'Tom','Jackson','Production','360-287-8610','Tom.Jackson@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+9,'George','Jones','Production','360-287-8620','George.Jones@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+10,'Ken','Numoto','Marketing','360-287-8710','Ken.Numoto@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+11,'James','Nestor','InfoSystems',NULL,'James.Nestor@WPC.com');
+INSERT INTO WPC_EMPLOYEE VALUES(
+12,'Rick','Brown','InfoSystems','360-287-8820','Rick.Brown@WPC.com');
